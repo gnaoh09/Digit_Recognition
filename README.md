@@ -1,6 +1,7 @@
 From this
 
-![image](https://github.com/gnaoh09/Digit_Recognition/assets/92804109/5a2e8453-65af-4dfe-9e8a-061b6873575a)
+![image](https://github.com/gnaoh09/Digit_Recognition/assets/92804109/7f0d68fc-b0c5-4a62-96f2-7a8242c1646b)
+
 
 into this
 
