@@ -11,4 +11,4 @@ into this
 ![image](https://github.com/gnaoh09/Digit_Recognition/assets/92804109/91498a36-2dee-489d-8f91-d6d1601a0d81)
 
 
-Watermeter digit recognition
+Water meter digit recognition
