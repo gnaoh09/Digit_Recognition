@@ -14,7 +14,10 @@ into this
 Water meter digit recognition
 
 When the image is rotated:
+
 ![27834414_1](https://github.com/user-attachments/assets/61c26740-7c4f-43c8-b4be-2491005b73e3)
 
 Model still give the best performance:
+
 ![image](https://github.com/user-attachments/assets/d28ec9c9-b014-4bbd-bd67-482df5835437)
+![image](https://github.com/user-attachments/assets/b9112d79-cdc5-4db5-83e1-b0ad040cf880)
